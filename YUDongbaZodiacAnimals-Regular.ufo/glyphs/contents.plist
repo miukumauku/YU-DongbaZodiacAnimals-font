@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>.notdef</key>
+  <string>__notdef.glif</string>
+  <key>space</key>
+  <string>space.glif</string>
+  <key>rat</key>
+  <string>rat.glif</string>
+  <key>ox</key>
+  <string>ox.glif</string>
+  <key>tiger</key>
+  <string>tiger.glif</string>
+  <key>rabbit</key>
+  <string>rabbit.glif</string>
+  <key>dragon</key>
+  <string>dragon.glif</string>
+  <key>snake</key>
+  <string>snake.glif</string>
+  <key>horse</key>
+  <string>horse.glif</string>
+  <key>goat</key>
+  <string>goat.glif</string>
+  <key>monkey</key>
+  <string>monkey.glif</string>
+  <key>rooster</key>
+  <string>rooster.glif</string>
+  <key>dog</key>
+  <string>dog.glif</string>
+  <key>pig</key>
+  <string>pig.glif</string>
+  <key>_rat</key>
+  <string>__rat.glif</string>
+  <key>_ox</key>
+  <string>__ox.glif</string>
+  <key>_tiger</key>
+  <string>__tiger.glif</string>
+  <key>_rabbit</key>
+  <string>__rabbit.glif</string>
+  <key>_dragon</key>
+  <string>__dragon.glif</string>
+  <key>_snake</key>
+  <string>__snake.glif</string>
+  <key>_horse</key>
+  <string>__horse.glif</string>
+  <key>_goat</key>
+  <string>__goat.glif</string>
+  <key>_monkey</key>
+  <string>__monkey.glif</string>
+  <key>_rooster</key>
+  <string>__rooster.glif</string>
+  <key>_dog</key>
+  <string>__dog.glif</string>
+  <key>_pig</key>
+  <string>__pig.glif</string>
+</dict>
+</plist>
