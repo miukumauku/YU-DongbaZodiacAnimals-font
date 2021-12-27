@@ -5,7 +5,7 @@ YUDongbaZodiacAnias font is a Dongba Zodiac 12 Animals font.
 
 Dongba Zodiac is a East Asian Zodiac.
 
-![New Year card](./images/image01.svg)
+![New Year card](./images/image01.png)
 
 12 Animals are:
 - mouse 🐭  
@@ -32,7 +32,7 @@ This font contained only simplified glyph of Zodiac 12 Animals.
 And glyphs coding maps are selected in Japanese Kanji style.  
 There are two series, zodiac animals and normal animals.
 
-![Assign codes](./images/image02.svg)
+![Assign codes](./images/image02.png)
 
 ## Contents
 True Type font:
