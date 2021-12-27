@@ -24,6 +24,9 @@ Dongba Zodiac is a East Asian Zodiac.
 
 Please use for New Year cards etc. 😃  
 
+## Download TrueType font
+[Click here](https://github.com/miukumauku/YU-DongbaZodiacAnimals-font/blob/main/YUDongbaZodiacAnimals-Regular.ttf?raw=true) from latest repository.
+
 ## Glyphs and Encoding
 This font contained only simplified glyph of Zodiac 12 Animals.  
 And glyphs coding maps are selected in Japanese Kanji style.  
